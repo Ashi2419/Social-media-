@@ -1,2 +1,2 @@
 # Netflix-data-analysis
-It help to analyze the data of Netflix data which was gather from the different sources.
+In this project we can see the data of social media websites where the fields like users, account,use time and many more are presented .
